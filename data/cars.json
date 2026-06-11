@@ -5,7 +5,7 @@
     "price": 650000,
     "fuelType": "petrol",
     "seatingCapacity": 5,
-    "usage": ["highway"],
+    "usage": "highway",
     "mileage": "20.09 km/l",
     "safetyRatings": "5 Star Global NCAP",
     "image": "https://images.weserv.nl/?url=www.tatamotors.com/wp-content/uploads/2023/12/tata-punch.jpg&w=400&h=300&fit=cover&output=jpg"
@@ -16,7 +16,7 @@
     "price": 1100000,
     "fuelType": "diesel",
     "seatingCapacity": 5,
-    "usage": ["city"],
+    "usage": "city",
     "mileage": "19.1 km/l",
     "safetyRatings": "3 Star Global NCAP",
     "image": "https://images.weserv.nl/?url=www.hyundai.com/content/dam/hyundai/in/en/data/find-a-car/Creta/Highlights/knightking/cretakingrock.jpg&w=400&h=300&fit=cover&output=jpg"
@@ -27,7 +27,7 @@
     "price": 1250000,
     "fuelType": "hybrid",
     "seatingCapacity": 5,
-    "usage": ["highway"],
+    "usage": "highway",
     "mileage": "27.97 km/l",
     "safetyRatings": "4 Star ASEAN NCAP",
     "image": "https://images.weserv.nl/?url=www.marutisuzuki.com/engage/images/technology/next-generation-powersystem/k15-series/grand-vitara.png&w=400&h=300&fit=cover&output=jpg"
@@ -38,7 +38,7 @@
     "price": 900000,
     "fuelType": "cng",
     "seatingCapacity": 5,
-    "usage": ["city"],
+    "usage": "city",
     "mileage": "24 km/kg",
     "safetyRatings": "5 Star Bharat NCAP",
     "image": "https://images.weserv.nl/?url=www.tatamotors.com/wp-content/uploads/2024/09/press-low-res-13jan20-01.jpg&w=400&h=300&fit=cover&output=jpg"
@@ -49,7 +49,7 @@
     "price": 1150000,
     "fuelType": "diesel",
     "seatingCapacity": 4,
-    "usage": ["off-road"],
+    "usage": "off-road",
     "mileage": "15.2 km/l",
     "safetyRatings": "4 Star Global NCAP",
     "image": "https://images.weserv.nl/?url=images.carandbike.com/car-images/gallery/mahindra/thar/exterior/mahindra_thar_2025_5_ec40ce7a8e.jpg&w=400&h=300&fit=cover&output=jpg"
@@ -60,7 +60,7 @@
     "price": 1950000,
     "fuelType": "hybrid",
     "seatingCapacity": 7,
-    "usage": ["highway"],
+    "usage": "highway",
     "mileage": "23.24 km/l",
     "safetyRatings": "5 Star ASEAN NCAP",
     "image": "https://images.weserv.nl/?url=static3.toyotabharat.com/images/showroom/innova-hycross/exterior-overview01.webp&w=400&h=300&fit=cover&output=jpg"
@@ -71,7 +71,7 @@
     "price": 1080000,
     "fuelType": "cng",
     "seatingCapacity": 7,
-    "usage": ["city"],
+    "usage": "city",
     "mileage": "26.11 km/kg",
     "safetyRatings": "3 Star Global NCAP",
     "image": "https://images.weserv.nl/?url=www.marutisuzuki.com/adobe/assets/urn%3Aaaid%3Aaem%3Ae1104b59-7e20-47fd-afd1-73e8d76c7b73/as/Key-Visual_750x1354.jpg&w=400&h=300&fit=cover&output=jpg"
@@ -82,7 +82,7 @@
     "price": 1190000,
     "fuelType": "mixed",
     "seatingCapacity": 5,
-    "usage": ["city"],
+    "usage": "city",
     "mileage": "17.9 km/l",
     "safetyRatings": "3 Star Global NCAP",
     "image": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kia_Seltos_SP2_PE_Snow_White_Pearl_%2817%29_%28cropped%29.jpg/330px-Kia_Seltos_SP2_PE_Snow_White_Pearl_%2817%29_%28cropped%29.jpg&w=400&h=300&fit=cover&output=jpg"
@@ -93,7 +93,7 @@
     "price": 1385000,
     "fuelType": "mixed",
     "seatingCapacity": 7,
-    "usage": ["off-road"],
+    "usage": "off-road",
     "mileage": "15.4 km/l",
     "safetyRatings": "5 Star Global NCAP",
     "image": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2024_Mahindra_Scorpio_Z8L_front.jpg/330px-2024_Mahindra_Scorpio_Z8L_front.jpg&w=400&h=300&fit=cover&output=jpg"
@@ -104,7 +104,7 @@
     "price": 1890000,
     "fuelType": "hybrid",
     "seatingCapacity": 5,
-    "usage": ["highway"],
+    "usage": "highway",
     "mileage": "27.13 km/l",
     "safetyRatings": "5 Star ASEAN NCAP",
     "image": "https://images.weserv.nl/?url=www.hondacarindia.com/web-data/home/banner/honda_city_desk_model1nnew.jpg&w=400&h=300&fit=cover&output=jpg"
@@ -115,7 +115,7 @@
     "price": 615000,
     "fuelType": "petrol",
     "seatingCapacity": 5,
-    "usage": ["highway"],
+    "usage": "highway",
     "mileage": "20.5 km/l",
     "safetyRatings": "4 Star Global NCAP",
     "image": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Renault_Kiger_front_20230602.jpg/330px-Renault_Kiger_front_20230602.jpg&w=400&h=300&fit=cover&output=jpg"
@@ -126,7 +126,7 @@
     "price": 1650000,
     "fuelType": "diesel",
     "seatingCapacity": 5,
-    "usage": ["off-road"],
+    "usage": "off-road",
     "mileage": "14 km/l",
     "safetyRatings": "Not Rated",
     "image": "https://images.weserv.nl/?url=www.forcemotors.com/wp-content/uploads/2025/05/gurkha-menu-img.png&w=400&h=300&fit=cover&output=jpg"

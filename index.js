@@ -5,6 +5,8 @@ import recommendRoutes from './routes/recommend.js';
 
 dotenv.config();
 
+console.log("MY KEY:", process.env.GEMINI_API_KEY);
+
 const app = express();
 
 app.use(cors());
