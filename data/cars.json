@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Tata Punch",
+    "price": 650000,
+    "fuelType": "petrol",
+    "seatingCapacity": 5,
+    "usage": ["city", "highway"],
+    "mileage": "20.09 km/l",
+    "safetyRatings": "5 Star Global NCAP",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Tata_Punch.jpg/500px-Tata_Punch.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Hyundai Creta",
+    "price": 1100000,
+    "fuelType": "diesel",
+    "seatingCapacity": 5,
+    "usage": ["city", "highway"],
+    "mileage": "19.1 km/l",
+    "safetyRatings": "3 Star Global NCAP",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/2024_Hyundai_Creta_Premium_T-GDi_MHEV_S-A_1.0_Front.jpg/330px-2024_Hyundai_Creta_Premium_T-GDi_MHEV_S-A_1.0_Front.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Maruti Suzuki Grand Vitara",
+    "price": 1250000,
+    "fuelType": "hybrid",
+    "seatingCapacity": 5,
+    "usage": ["city", "highway"],
+    "mileage": "27.97 km/l",
+    "safetyRatings": "4 Star ASEAN NCAP",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/2023_Maruti_Suzuki_Grand_Vitara_Alpha_%28India%29.jpg/500px-2023_Maruti_Suzuki_Grand_Vitara_Alpha_%28India%29.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tata Nexon iCNG",
+    "price": 900000,
+    "fuelType": "cng",
+    "seatingCapacity": 5,
+    "usage": ["city", "highway"],
+    "mileage": "24 km/kg",
+    "safetyRatings": "5 Star Bharat NCAP",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tata_Nexon_XZ%2B_Petrol_1.2_Front.jpg/500px-Tata_Nexon_XZ%2B_Petrol_1.2_Front.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mahindra Thar",
+    "price": 1150000,
+    "fuelType": "diesel",
+    "seatingCapacity": 4,
+    "usage": ["off-road", "highway"],
+    "mileage": "15.2 km/l",
+    "safetyRatings": "4 Star Global NCAP",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/2022_Mahindra_Thar_automatic%2C_front_8.6.22.jpg/500px-2022_Mahindra_Thar_automatic%2C_front_8.6.22.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Toyota Innova Hycross",
+    "price": 1950000,
+    "fuelType": "hybrid",
+    "seatingCapacity": 7,
+    "usage": ["city", "highway"],
+    "mileage": "23.24 km/l",
+    "safetyRatings": "5 Star ASEAN NCAP",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/2023_Toyota_Innova_Zenix_G_Hybrid_EV_%28Indonesia%29_front_view_01.jpg/500px-2023_Toyota_Innova_Zenix_G_Hybrid_EV_%28Indonesia%29_front_view_01.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Maruti Suzuki Ertiga CNG",
+    "price": 1080000,
+    "fuelType": "cng",
+    "seatingCapacity": 7,
+    "usage": ["city", "highway"],
+    "mileage": "26.11 km/kg",
+    "safetyRatings": "3 Star Global NCAP",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Maruti_Suzuki_Ertiga_front.jpg/500px-Maruti_Suzuki_Ertiga_front.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Kia Seltos",
+    "price": 1190000,
+    "fuelType": "mixed",
+    "seatingCapacity": 5,
+    "usage": ["city", "highway"],
+    "mileage": "17.9 km/l",
+    "safetyRatings": "3 Star Global NCAP",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Kia_Seltos_1.6_D_EX%2C_front_8.6.22.jpg/500px-Kia_Seltos_1.6_D_EX%2C_front_8.6.22.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Mahindra Scorpio N",
+    "price": 1385000,
+    "fuelType": "mixed",
+    "seatingCapacity": 7,
+    "usage": ["off-road", "highway"],
+    "mileage": "15.4 km/l",
+    "safetyRatings": "5 Star Global NCAP",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mahindra_Scorpio-N_%28India%29.jpg/500px-Mahindra_Scorpio-N_%28India%29.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Honda City e:HEV",
+    "price": 1890000,
+    "fuelType": "hybrid",
+    "seatingCapacity": 5,
+    "usage": ["city", "highway"],
+    "mileage": "27.13 km/l",
+    "safetyRatings": "5 Star ASEAN NCAP",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2021_Honda_City_SE_VTEC_CVT_facelift_front_view.jpg/500px-2021_Honda_City_SE_VTEC_CVT_facelift_front_view.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Renault Kiger",
+    "price": 615000,
+    "fuelType": "petrol",
+    "seatingCapacity": 5,
+    "usage": ["city", "highway"],
+    "mileage": "20.5 km/l",
+    "safetyRatings": "4 Star Global NCAP",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Renault_Kiger_RXZ_1.0_Turbo_CVT_front.jpg/500px-Renault_Kiger_RXZ_1.0_Turbo_CVT_front.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Force Gurkha",
+    "price": 1650000,
+    "fuelType": "diesel",
+    "seatingCapacity": 5,
+    "usage": ["off-road", "highway"],
+    "mileage": "14 km/l",
+    "safetyRatings": "Not Rated",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2022_Force_Gurkha_4x4_2.6_Front.jpg/500px-2022_Force_Gurkha_4x4_2.6_Front.jpg"
+  }
+]
