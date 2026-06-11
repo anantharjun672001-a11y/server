@@ -9,7 +9,11 @@ console.log("MY KEY:", process.env.GEMINI_API_KEY);
 
 const app = express();
 
-app.use(cors());
+app.use(cors({
+    origin:"https://client-eight-mu-53.vercel.app/",
+    methods: ["GET", "POST"],
+    credentials: true
+}));
 app.use(express.json());
 app.use('/api', recommendRoutes);
 
