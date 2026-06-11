@@ -11,7 +11,7 @@ const app = express();
 
 app.use(cors({
     origin:[
-        "https://client-eight-mu-53.vercel.app/",
+        "https://client-eight-mu-53.vercel.app",
         "http://localhost:5173"
     ],
     methods: ["GET", "POST"],
